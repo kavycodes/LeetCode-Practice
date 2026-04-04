@@ -1,6 +1,6 @@
 // LeetCode 191 - Number of Bits
 // Difficulty: Easy
-
+ 
 class Solution {
 public:
     int hammingWeight(int n) {
