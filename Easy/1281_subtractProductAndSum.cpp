@@ -1,5 +1,5 @@
 // LeetCode 1281 - Subtract the Product and Sum of Digits of an Integer
-// Difficulty: Easy
+// Difficulty: Easy 
 
 #include <iostream>
 using namespace std;
