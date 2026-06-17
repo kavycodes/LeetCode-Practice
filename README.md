@@ -27,7 +27,7 @@ Problems are organized based on difficulty:
 ## 📊 Progress
 
 * Total Problems Solved: XX
-* Easy: XX
+* Easy: 04
 * Medium: XX
 * Hard: XX
 
