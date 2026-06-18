@@ -28,7 +28,7 @@ Problems are organized based on difficulty:
 
 * Total Problems Solved: XX
 * Easy: 04
-* Medium: XX
+* Medium: 01
 * Hard: XX
 
 ## 🔥 Practice Platform
