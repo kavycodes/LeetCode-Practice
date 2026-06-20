@@ -37,4 +37,4 @@ Problems are organized based on difficulty:
 
 ---
 
-⭐ Consistency and practice are the keys to success!
+⭐ Consistency and practice are the keys to success! 
