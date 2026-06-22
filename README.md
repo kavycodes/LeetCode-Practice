@@ -30,7 +30,7 @@ Problems are organized based on difficulty:
 * Easy: 04
 * Medium: 01
 * Hard: XX
-
+ 
 ## 🔥 Practice Platform
 
 * LeetCode
