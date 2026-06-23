@@ -33,7 +33,7 @@ Problems are organized based on difficulty:
  
 ## 🔥 Practice Platform
 
-* LeetCode
+* LeetCode 
 
 ---
 
