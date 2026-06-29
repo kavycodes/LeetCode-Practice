@@ -20,7 +20,7 @@ Problems are organized based on difficulty:
 
 ## 🎯 Goals
 
-* Build strong problem-solving skills
+* Build strong problem-solving skills 
 * Improve coding efficiency
 * Prepare for coding interviews
 
